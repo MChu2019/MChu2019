@@ -8,8 +8,8 @@
 📧 mychuy2k@gmail.com  
 📞 +65 9002 9066  
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin  
-🔗 GitHub: https://github.com/your-github  
+🔗 LinkedIn: https://www.linkedin.com/in/chu-michelle-88312371/
+🔗 GitHub: https://github.com/Tazzyben76/JDE08_Interim_Project2
 
 ---
 
