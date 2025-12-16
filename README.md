@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Michelle Chu | Data & Analytics Portfolio
 
@@ -9,6 +8,7 @@
 📞 +65 9002 9066  
 
 🔗 LinkedIn: https://www.linkedin.com/in/chu-michelle-88312371/
+
 🔗 GitHub: https://github.com/Tazzyben76/JDE08_Interim_Project2
 
 ---
@@ -55,22 +55,12 @@ My work spans **logistics operations, cost optimization, revenue analysis, and c
 
 ---
 
-## 8. 👀 Seamless Viewer Experience
-Each repository follows a simple structure:
-- Clear README
-- Reproducible steps
-- Visual outputs
-- Business-focused explanations  
-This ensures easy navigation and quick understanding for technical and non-technical audiences.
-
----
-
-## 9. 🎯 Unique Selling Proposition (USP)
+## 8. 🎯 Unique Selling Proposition (USP)
 I combine **deep domain expertise** from real-world enterprise systems with **hands-on data engineering skills**, enabling me to design solutions that are both technically sound and operationally practical.
 
 ---
 
-## 10. 📌 What’s Next
+## 9. 📌 What’s Next
 I am actively seeking opportunities where I can contribute as a **Data Engineer / Analytics Professional**, building scalable data solutions that create measurable business value.
 
 Thank you for exploring my portfolio.
