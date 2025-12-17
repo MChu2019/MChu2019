@@ -1,4 +1,3 @@
-
 1. 👩‍💻 Creator & Contact
 
 Michelle Chu
@@ -61,14 +60,12 @@ My work spans logistics operations, cost optimization, revenue analysis, and car
 
 I combine deep enterprise domain knowledge with hands-on data engineering skills, enabling solutions that are technically robust, scalable, and grounded in real operational needs.
 
-9. 📌 What’s Next
-
-I am seeking opportunities as a data engineer or analytics professional, contributing to scalable pipelines, reliable data models, and insights that create measurable business value.
-
-10. 🎯 Unique Selling Proposition (USP)
+9. 🎯 Unique Selling Proposition (USP)
+    
 I combine **deep domain expertise** from real-world enterprise systems with **hands-on data engineering skills**, enabling me to design solutions that are both technically sound and operationally practical.
 
-11. 📌 What’s Next
+10. 📌 What’s Next
+    
 I am actively seeking opportunities where I can contribute as a **Data Engineer / Analytics Professional**, building scalable data solutions that create measurable business value.
 
 Thank you for exploring my portfolio.
