@@ -8,8 +8,6 @@ Michelle Chu
 
 🔗 LinkedIn: https://www.linkedin.com/in/chu-michelle-88312371/
 
-🔗 GitHub: https://github.com/Tazzyben76/JDE08_Interim_Project2
-
 2. 🌱 Bio
 
 I am a tech-savvy Business Analyst with 18 years of experience in shipping and logistics, now transitioning into data engineering and analytics. I bridge business needs with data-driven solutions, turning complex operational data into actionable insights that improve efficiency, cost control, and decision-making.
