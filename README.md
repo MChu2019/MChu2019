@@ -48,7 +48,7 @@ My role: Designed data cleaning logic and supported ETL implementation.
 What we built: Python cleaning functions, schema-aligned transformations, and validation checks.
 Problem-solving approach: Iterative debugging, reusable functions, and schema-first thinking to ensure data integrity.
 
-<img width="1165" height="594" alt="image" src="https://github.com/user-attachments/assets/648f8685-246a-48f0-829b-fabb49ebb19f" />
+<img width="997" height="508" alt="image" src="https://github.com/user-attachments/assets/57428534-4381-45f4-8557-fa3ed1256f40" />
 
 What we achieved: Insights into core data/tech skills, salary variations, and top hiring countries.
 What I learned: Handling API constraints, importance of data quality, and translating raw data into business-ready insights.
@@ -64,14 +64,11 @@ I combine deep enterprise domain knowledge with hands-on data engineering skills
 9. 📌 What’s Next
 
 I am seeking opportunities as a data engineer or analytics professional, contributing to scalable pipelines, reliable data models, and insights that create measurable business value.
----
 
-## 8. 🎯 Unique Selling Proposition (USP)
+10. 🎯 Unique Selling Proposition (USP)
 I combine **deep domain expertise** from real-world enterprise systems with **hands-on data engineering skills**, enabling me to design solutions that are both technically sound and operationally practical.
 
----
-
-## 9. 📌 What’s Next
+11. 📌 What’s Next
 I am actively seeking opportunities where I can contribute as a **Data Engineer / Analytics Professional**, building scalable data solutions that create measurable business value.
 
 Thank you for exploring my portfolio.
