@@ -35,20 +35,6 @@ Stakeholder communication
 6. 🏗️ Featured Project: Data / Tech Job Portal Pipeline
 <img width="1116" height="337" alt="image" src="https://github.com/user-attachments/assets/44519a9e-0d25-42ab-a3c1-6cfe42692977" />
 
-What it is: An end-to-end data pipeline that collects, cleans, stores, and analyzes job-market data.
-Audience: Internal analytics users exploring skills demand, salaries, and geography.
-Assumptions & limits: API coverage is partial; Kaggle data supplements gaps.
-
-<img width="1328" height="333" alt="image" src="https://github.com/user-attachments/assets/53171a3a-7b11-4729-9c14-148afea7cd50" />
-
-My role: Designed data cleaning logic and supported ETL implementation.
-What we built: Python cleaning functions, schema-aligned transformations, and validation checks.
-Problem-solving approach: Iterative debugging, reusable functions, and schema-first thinking to ensure data integrity.
-
-<img width="997" height="508" alt="image" src="https://github.com/user-attachments/assets/57428534-4381-45f4-8557-fa3ed1256f40" />
-
-What we achieved: Insights into core data/tech skills, salary variations, and top hiring countries.
-What I learned: Handling API constraints, importance of data quality, and translating raw data into business-ready insights.
 
 7. 🌈 Diversity of Work
 
