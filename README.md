@@ -33,10 +33,9 @@ ERP & analytics implementation
 Stakeholder communication
 
 6. 🏗️ Featured Project: Data / Tech Job Portal Pipeline
-<img width="1116" height="337" alt="image" src="https://github.com/user-attachments/assets/44519a9e-0d25-42ab-a3c1-6cfe42692977" />
+[![Tech Job Portal Pipeline](./Pipeline_Project.png)](./project.md)
 
-
-7. 🌈 Diversity of Work
+8. 🌈 Diversity of Work
 
 My work spans logistics operations, cost optimization, revenue analysis, demonstrating adaptability across domains, datasets, and analytical questions.
 
