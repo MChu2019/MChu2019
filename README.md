@@ -1,4 +1,4 @@
-1. 👩‍💻 Creator & Contact
+## **👩‍💻 Creator & Contact**
 
 Michelle Chu
 📍 Singapore
@@ -8,15 +8,15 @@ Michelle Chu
 
 🔗 LinkedIn: https://www.linkedin.com/in/chu-michelle-88312371/
 
-2. 🌱 Bio
+## ** 🌱 Bio**
 
 I am a tech-savvy Business Analyst with 18 years of experience in shipping and logistics, now transitioning into data engineering and analytics. I bridge business needs with data-driven solutions, turning complex operational data into actionable insights that improve efficiency, cost control, and decision-making.
 
-3. 🚀 My Story
+## **🚀 My Story**
 
 After leading ERP and analytics initiatives for nearly two decades, I recognized the growing impact of scalable data platforms and automation. This motivated my transition into data engineering, where I now design and analyze data pipelines that support structured, repeatable, and insight-driven outcomes.
 
-4. 🧰 Tools & Technologies
+## **🧰 Tools & Technologies**
 
 Data & BI: Power BI, Tableau, Excel
 Programming: Python, SQL, Java
@@ -24,7 +24,7 @@ Databases: PostgreSQL, Oracle SQL, PL/SQL, T-SQL
 Platforms: Git, GitHub, Azure
 Systems: Linux, IBM AIX, FTP, Batch scripting
 
-5. 💡 Core Skills
+## **💡 Core Skills**
 
 Data analysis & visualization
 Data modelling & ETL pipeline design
@@ -32,18 +32,18 @@ Business process optimization
 ERP & analytics implementation
 Stakeholder communication
 
-6. 🏗️ Featured Project: Data / Tech Job Portal Pipeline
+## **🏗️ Featured Project: Data / Tech Job Portal Pipeline**
 [![Tech Job Portal Pipeline](./Pipeline_Project.png)](./project.md)
 
-8. 🌈 Diversity of Work
+## **🌈 Diversity of Work**
 
 My work spans logistics operations, cost optimization, revenue analysis, demonstrating adaptability across domains, datasets, and analytical questions.
 
-8. 🎯 Unique Selling Proposition (USP)
+## **🎯 Unique Selling Proposition (USP)**
 
 I combine deep enterprise domain knowledge with hands-on data engineering skills, enabling solutions that are technically robust, scalable, and grounded in real operational needs.
 
-9. 📌 What’s Next
+## **📌 What’s Next**
     
 I am actively seeking opportunities where I can contribute as a **Data Engineer / Analytics Professional**, building scalable data solutions that create measurable business value.
 
