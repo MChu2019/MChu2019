@@ -40,7 +40,7 @@
 
 # _Data cum Tech Job Portal_
 ##
-[![Tech Job Portal Pipeline](./bmm_project.png)](./project.md)
+(https://MChu2019.github.io/MChu2019/project.html)
 
 # _NHL Game Analytics Data Platform_
 [![NHL Game Analytics](./nhl_game.png)](./nhl_game.md)
