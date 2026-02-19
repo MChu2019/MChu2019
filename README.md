@@ -10,41 +10,47 @@ Michelle Chu
 
 ## ** 🌱 Bio**
 
-I am a tech-savvy Business Analyst with 18 years of experience in shipping and logistics, now transitioning into data engineering and analytics. I bridge business needs with data-driven solutions, turning complex operational data into actionable insights that improve efficiency, cost control, and decision-making.
+• Experienced in shipping and logistics operations<br>
+• Transitioning into data engineering and analytics<br>
+• Passionate about practical, data-driven problem solving
 
 ## **🚀 My Story**
 
-After leading ERP and analytics initiatives for nearly two decades, I recognized the growing impact of scalable data platforms and automation. This motivated my transition into data engineering, where I now design and analyze data pipelines that support structured, repeatable, and insight-driven outcomes.
+• Guided multiple shipping systems implementation and analytics initiatives<br>
+• Recognized value of scalable data platforms<br>
+• Now building structured, reliable data pipelines
 
 ## **🧰 Tools & Technologies**
 
-Data & BI: Power BI, Tableau, Excel
-Programming: Python, SQL, Java
-Databases: PostgreSQL, Oracle SQL, PL/SQL, T-SQL
-Platforms: Git, GitHub, Azure
-Systems: Linux, IBM AIX, FTP, Batch scripting
+• Python, SQL, basic Java<br>
+• Power BI, Tableau, Excel<br>
+• PostgreSQL, Azure, Git, Linux
 
 ## **💡 Core Skills**
 
-Data analysis & visualization
-Data modelling & ETL pipeline design
-Business process optimization
-ERP & analytics implementation
-Stakeholder communication
+• Data analysis and visualization<br>
+• ETL pipeline design fundamentals<br>
+• Business process understanding
 
-## **🏗️ Featured Project: Data / Tech Job Portal Pipeline**
+## **🏗️ Featured Project: Data cum Tech Job Portal Pipeline**
 [![Tech Job Portal Pipeline](./Pipeline_Project.png)](./project.md)
 
 ## **🌈 Diversity of Work**
 
-My work spans logistics operations, cost optimization, revenue analysis, demonstrating adaptability across domains, datasets, and analytical questions.
+• Logistics operations analytics<br>
+• Cost and revenue analysis<br>
+• Cross-functional stakeholder collaboration
 
 ## **🎯 Unique Selling Proposition (USP)**
 
-I combine deep enterprise domain knowledge with hands-on data engineering skills, enabling solutions that are technically robust, scalable, and grounded in real operational needs.
+• Business domain understanding<br>
+• Applied data engineering skills<br>
+• Practical, scalable solutions mindset
 
 ## **📌 What’s Next**
     
-I am actively seeking opportunities where I can contribute as a **Data Engineer / Analytics Professional**, building scalable data solutions that create measurable business value.
+• Seeking Data Analysis and Engineer opportunities<br>
+• Eager to grow technical expertise<br>
+• Committed to continuous learning
 
 Thank you for exploring my portfolio.
