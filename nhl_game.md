@@ -1,16 +1,17 @@
-#🏒 NHL Game Analytics Data Platform
-#📌 Project Overview
+
+# 🏒 NHL Game Analytics Data Platform
+# 📌 Project Overview
 
 Built an end-to-end ELT data platform transforming 20 years of NHL historical game data (12 CSV datasets) into an analytics-ready dimensional model powering executive dashboards.
 
 Objective:
 Design a scalable data pipeline and deliver performance intelligence for coaches, analysts, and operations teams.
 
-#🏗 Architecture Design
+# 🏗 Architecture Design
 
 Implemented a Medallion Architecture:
 
-#🥉 Bronze Layer
+# 🥉 Bronze Layer
 
 Raw data ingestion (CSV → Delta Tables)
 
@@ -20,7 +21,7 @@ Referential integrity validation
 
 Preserved source fidelity
 
-#🥈 Silver Layer
+# 🥈 Silver Layer
 
 Data cleansing & standardization
 
@@ -34,7 +35,7 @@ Analytical enrichment
 
 This structure ensured modular transformation, traceability, and scalable reprocessing.
 
-#🧱 Dimensional Data Model
+# 🧱 Dimensional Data Model
 
 Designed an analytics-ready semantic model:
 
@@ -68,7 +69,7 @@ Cross-game comparisons
 
 Team vs player benchmarking
 
-#📊 Metrics Engineering
+# 📊 Metrics Engineering
 
 Key analytical enhancements:
 
@@ -82,7 +83,7 @@ Season-level trend normalization
 
 Designed metrics to avoid bias from uneven playtime distribution.
 
-#📈 Power BI Strategy
+# 📈 Power BI Strategy
 
 Design Principles:
 
@@ -106,7 +107,7 @@ League Trend Analysis
 
 Focused on decision intelligence — not just visualization.
 
-#🤖 Machine Learning POC
+# 🤖 Machine Learning POC
 
 Built binary classification model predicting match outcomes
 
@@ -116,7 +117,7 @@ Resolved scaling issue affecting early prediction confidence
 
 Demonstrated feature impact on win probability
 
-#⚠ Challenges & Improvements
+# ⚠ Challenges & Improvements
 
 Challenges:
 
@@ -136,7 +137,7 @@ Shot coordinate spatial analytics
 
 Home vs Away performance modelling
 
-#🎯 Key Engineering Takeaways
+# 🎯 Key Engineering Takeaways
 
 Data modelling decisions directly affect downstream flexibility
 
