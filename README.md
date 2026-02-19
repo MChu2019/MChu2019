@@ -1,7 +1,10 @@
 
-# **👩‍💻 Creator & Contact**
+# 👩‍💻 Creator & Contact
 
-Michelle Chu
+
+# Chu Mei Ying, Michelle 
+
+
 📍 Singapore
 📧 mychuy2k@gmail.com
 
@@ -9,49 +12,53 @@ Michelle Chu
 
 🔗 LinkedIn: https://www.linkedin.com/in/chu-michelle-88312371/
 
-# **🌱 Bio**
-##
+# 🌱 Bio
+
 • Experienced in shipping and logistics operations<br>
 • Transitioning into data engineering and analytics<br>
 • Passionate about practical, data-driven problem solving
 
-# **🚀 My Story**
+# 🚀 My Story
 ##
 • Guided multiple shipping systems implementation and analytics initiatives<br>
 • Recognized value of scalable data platforms<br>
 • Now building structured, reliable data pipelines
 
-# **🧰 Tools & Technologies**
+# 🧰 Tools & Technologies
 ##
 • Python, SQL, basic Java<br>
 • Power BI, Tableau, Excel<br>
 • PostgreSQL, Azure, Git, Linux
 
-# **💡 Core Skills**
+# 💡 Core Skills
 ##
 • Data analysis and visualization<br>
 • ETL pipeline design fundamentals<br>
 • Business process understanding
 
-# **🏗️ Featured Project: Data cum Tech Job Portal Pipeline**
-##
-[![Tech Job Portal Pipeline](./Pipeline_Project.png)](./project.md)
+# 🏗️ Featured Project: 
 
-# **🌈 Diversity of Work**
+# _Data cum Tech Job Portal Pipeline_
+##
+[![Tech Job Portal Pipeline](./bmm_project.png)](./project.md)
+
+
+
+# 🌈 Diversity of Work
 ##
 
 • Logistics operations analytics<br>
 • Cost and revenue analysis<br>
 • Cross-functional stakeholder collaboration
 
-# **🎯 Unique Selling Proposition (USP)**
+# 🎯 Unique Selling Proposition
 ##
 
 • Business domain understanding<br>
 • Applied data engineering skills<br>
 • Practical, scalable solutions mindset
 
-# **📌 What’s Next**
+# 📌 What’s Next
 ##
     
 • Seeking Data Analysis and Engineer opportunities<br>
