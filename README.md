@@ -38,11 +38,12 @@
 
 # 🏗️ Featured Project: 
 
-# _Data cum Tech Job Portal Pipeline_
+# _Data cum Tech Job Portal_
 ##
 [![Tech Job Portal Pipeline](./bmm_project.png)](./project.md)
 
-
+# _NHL Game Analytics Data Platform_
+[![NHL Game Analytics](./nhl_game.png)](./project.md)
 
 # 🌈 Diversity of Work
 ##
