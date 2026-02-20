@@ -43,7 +43,8 @@
 [![Tech Job Portal Pipeline](./bmm_project.png)](https://mchu2019.github.io/MChu2019/project.html)
 
 # _NHL Game Analytics Data Platform_
-[![NHL Game Analytics](./nhl_game.png)](./nhl_game.md)
+[![Tech Job Portal Pipeline](./nhl_game.png)](https://mchu2019.github.io/MChu2019/nhl_game.html)
+
 
 # 🌈 Diversity of Work
 ##
