@@ -10,7 +10,7 @@
 
 📞 +65 9002 9066
 
-🔗 LinkedIn: https://www.linkedin.com/in/chu-michelle-88312371/
+🔗 [LinkedIn](https://www.linkedin.com/in/chu-michelle-88312371/)
 
 # 🌱 Bio
 
