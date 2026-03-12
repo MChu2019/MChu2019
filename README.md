@@ -14,54 +14,36 @@
 
 # 🌱 Bio
 
-• Experienced in shipping and logistics operations<br>
-• Transitioning into data engineering and analytics<br>
-• Passionate about practical, data-driven problem solving
-
-# 🚀 My Story
-
-• Guided multiple shipping systems implementation and analytics initiatives<br>
-• Recognized value of scalable data platforms<br>
-• Now building structured, reliable data pipelines
+• 18-year PM/BA optimizing application systems via data modeling.<br>
+• Bridging business operations with data-driven system workflows.<br>
+• Turning complex data into actionable strategic insights.<br>
+• Guided various system implementations and stakeholder initiatives.<br>
+• Now building structured, reliable data pipelines.
 
 # 🧰 Tools & Technologies
 
-• Python, SQL, basic Java<br>
-• Power BI, Tableau, Excel<br>
-• PostgreSQL, Azure, Git, Linux
+• Python, SQL, Power BI, Tableau for data visualization.<br>
+• ETL pipeline design with PostgreSQL and Azure fundamentals.<br>
+• Data analysis expert with strong business process understanding.<br>
+• Leveraging Excel and Git for version-controlled analytics.<br>
+• Linux and basic Java supporting end-to-end data workflows.
 
-# 💡 Core Skills
 
-• Data analysis and visualization<br>
-• ETL pipeline design fundamentals<br>
-• Business process understanding
+# 🌈 Key Competencies:
+• Business operations, cost analysis, and stakeholder collaboration expert.<br>
+• Business domain understanding with applied data engineering skills.<br>
+• Delivering practical, scalable solutions for logistics analytics.<br>
+• Cross-functional partner bridging business needs with technical execution.<br>
+• Revenue analysis meets scalable data solutions mindset.
 
 # 🏗️ Featured Project: 
 
 # _Data cum Tech Job Portal_
-
-[![Tech Job Portal Pipeline](./bmm_project.png)](https://mchu2019.github.io/MChu2019/project.html)
+[![1. Tech Job Portal Pipeline]](https://mchu2019.github.io/MChu2019/project.html)
 
 # _NHL Game Analytics Data Platform_
-[![Tech Job Portal Pipeline](./nhl_game.png)](https://mchu2019.github.io/MChu2019/nhl_game.html)
+[![2. NHL Game Analytics Data Plaform]](https://mchu2019.github.io/MChu2019/nhl_game.html)
 
 
-# 🌈 Diversity of Work
 
-• Logistics operations analytics<br>
-• Cost and revenue analysis<br>
-• Cross-functional stakeholder collaboration
 
-# 🎯 Unique Selling Proposition
-
-• Business domain understanding<br>
-• Applied data engineering skills<br>
-• Practical, scalable solutions mindset
-
-# 📌 What’s Next
-    
-• Seeking Data Analysis and Engineer opportunities<br>
-• Eager to grow technical expertise<br>
-• Committed to continuous learning
-
-Thank you for exploring my portfolio.
