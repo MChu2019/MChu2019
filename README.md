@@ -39,7 +39,7 @@
 # 🏗️ Featured Project: 
 
 # _Data cum Tech Job Portal_
-[1. Tech Job Portal Pipeline](https://mchu2019.github.io/MChu2019/project.html)
+[# _1. Tech Job Portal Pipeline_](https://mchu2019.github.io/MChu2019/project.html)
 
 # _NHL Game Analytics Data Platform_
 [2. NHL Game Analytics Data Plaform](https://mchu2019.github.io/MChu2019/nhl_game.html)
