@@ -42,7 +42,7 @@
 
 [# _2. NHL Game Analytics Data Platform_](https://mchu2019.github.io/MChu2019/nhl_game.html)
 
-
+[# _3. Potential Talent Shortage_](https://mchu2019.github.io/MChu2019/talent_shortage.html)
 
 
 
