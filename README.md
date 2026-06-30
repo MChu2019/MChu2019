@@ -38,11 +38,12 @@
 
 # 🏗️ Featured Project: 
 
-[# _1. Data cum Tech Job Portal_](https://mchu2019.github.io/MChu2019/project.html)
+[# _1. NHL Game Analytics Data Platform_](https://mchu2019.github.io/MChu2019/nhl_game.html)
 
-[# _2. NHL Game Analytics Data Platform_](https://mchu2019.github.io/MChu2019/nhl_game.html)
+[# _2. Potential Talent Shortage_](https://mchu2019.github.io/MChu2019/talent_shortage.html)
 
-[# _3. Potential Talent Shortage_](https://mchu2019.github.io/MChu2019/talent_shortage.html)
+[# _3. Container Repair Recovery_](http://localhost:8501/)
+ 
 
 
 
