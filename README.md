@@ -42,7 +42,7 @@ https://github.com/MChu2019/MChu2019/blob/main/README.md
 
 [# _2. Container Repair Recovery_](https://emars-tpc-dashboard-sekiy9jb6pyfgogqozekpn.streamlit.app/)
 
-[# _3. Repair Billing Forecast_](https://nbviewer.org/github/mchu2019/repo/blob/main/Repair_Cost_Recovery_Forecast.ipynb)
+[# _3. Repair Billing Forecast_](https://github.com/MChu2019/tpc-repair-forecast/blob/main/Repair_Cost_Recovery_Forecast.ipynb)
 
  
 
