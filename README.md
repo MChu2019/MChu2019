@@ -40,7 +40,7 @@ https://github.com/MChu2019/MChu2019/blob/main/README.md
 
 [# _1. Potential Talent Shortage_](https://mchu2019.github.io/MChu2019/talent_shortage.html)
 
-[# _2. Container Repair Recovery_](https://emars-tpc-dashboard-sekiy9jb6pyfgogqozekpn.streamlit.app/)
+[# _2. Container Repair Recovery_](https://github.com/MChu2019/emars-tpc-dashboard/blob/main/README.md)
 
 [# _3. Repair Billing Forecast_](https://github.com/MChu2019/tpc-repair-forecast/blob/main/README.md)
 
