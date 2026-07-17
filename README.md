@@ -38,11 +38,11 @@ https://github.com/MChu2019/MChu2019/blob/main/README.md
 
 # 🏗️ Featured Project: 
 
-[# _1. Potential Talent Shortage_](https://mchu2019.github.io/MChu2019/talent_shortage.html)
+[# _1. Container Repair Recovery_](https://github.com/MChu2019/emars-tpc-dashboard/blob/main/README.md)
 
-[# _2. Container Repair Recovery_](https://github.com/MChu2019/emars-tpc-dashboard/blob/main/README.md)
+[# _2. Repair Billing Forecast_](https://github.com/MChu2019/tpc-repair-forecast/blob/main/README.md)
 
-[# _3. Repair Billing Forecast_](https://github.com/MChu2019/tpc-repair-forecast/blob/main/README.md)
+[# _3. Retirement Plan Advisor_](https://github.com/MChu2019/plan_project/blob/main/README.md)
 
  
 
