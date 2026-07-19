@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NHL Power BI Dashboard</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; text-align: center; }
+    iframe { border: none; width: 100%; max-width: 1140px; height: 700px; }
+  </style>
+</head>
+<body>
+  <h1>NHL Interactive Dashboard</h1>
+  <iframe title="NHL Power BI Report"
+    src="https://app.powerbi.com/view?r=eyJrIjoi..."
+    allowFullScreen="true">
+  </iframe>
+</body>
+</html>
