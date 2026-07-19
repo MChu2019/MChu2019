@@ -44,7 +44,7 @@ https://github.com/MChu2019/MChu2019/blob/main/README.md
 
 [# _3. Retirement Plan Advisor_](https://github.com/MChu2019/plan_project/blob/main/README.md)
 
-[# _4. NHL Game Statistic Analyzer](https://mchu2019.github.io/nhl_game.html)
+[# _4. NHL Game Statistic Analyzer*](https://github.com/MChu2019/MChu2019/blob/main/nhl_game.html)
 
 
 
