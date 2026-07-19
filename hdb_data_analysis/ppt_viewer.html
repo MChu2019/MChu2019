@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Presentation Viewer</title>
+<style>
+  :root {
+    --bg: #14161a;
+    --panel: #1d2025;
+    --ink: #f2f0ea;
+    --muted: #8b909c;
+    --accent: #5aa9e6;
+    --accent-dim: rgba(90, 169, 230, 0.15);
+    --border: #2b2f36;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  header {
+    padding: 20px 24px 16px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  header h1 {
+    margin: 0 0 4px;
+    font-size: 1.3rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  header p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+
+  main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    gap: 16px;
+  }
+
+  .stage {
+    position: relative;
+    width: 100%;
+    max-width: 1100px;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.35);
+  }
+
+  .stage img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: contain;
+    background: #0e0f12;
+  }
+
+  .nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(20, 22, 26, 0.65);
+    border: 1px solid var(--border);
+    color: var(--ink);
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s ease, transform 0.15s ease;
+    user-select: none;
+  }
+
+  .nav-btn:hover { background: var(--accent); border-color: var(--accent); }
+  .nav-btn.prev { left: 14px; }
+  .nav-btn.next { right: 14px; }
+
+  .controls {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    width: 100%;
+    max-width: 1100px;
+  }
+
+  .counter {
+    font-variant-numeric: tabular-nums;
+    color: var(--muted);
+    font-size: 0.9rem;
+    min-width: 64px;
+    text-align: center;
+  }
+
+  .progress-track {
+    flex: 1;
+    height: 4px;
+    background: var(--border);
+    border-radius: 2px;
+    position: relative;
+    cursor: pointer;
+  }
+
+  .progress-fill {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: var(--accent);
+    border-radius: 2px;
+    transition: width 0.2s ease;
+  }
+
+  .icon-btn {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    width: 34px;
+    height: 34px;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s ease;
+  }
+
+  .icon-btn:hover { color: var(--ink); border-color: var(--accent); }
+
+  .thumbs {
+    width: 100%;
+    max-width: 1100px;
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 4px 2px 8px;
+  }
+
+  .thumbs::-webkit-scrollbar { height: 6px; }
+  .thumbs::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+  .thumb {
+    flex: 0 0 auto;
+    width: 96px;
+    aspect-ratio: 16 / 9;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 2px solid transparent;
+    cursor: pointer;
+    opacity: 0.55;
+    transition: opacity 0.15s ease, border-color 0.15s ease;
+    background: var(--panel);
+  }
+
+  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .thumb.active { opacity: 1; border-color: var(--accent); }
+  .thumb:hover { opacity: 0.9; }
+
+  footer {
+    text-align: center;
+    padding: 14px;
+    color: var(--muted);
+    font-size: 0.78rem;
+    border-top: 1px solid var(--border);
+  }
+
+  footer a { color: var(--accent); text-decoration: none; }
+
+  @media (max-width: 640px) {
+    .nav-btn { width: 36px; height: 36px; font-size: 1rem; }
+    .thumb { width: 72px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1 id="deckTitle">Presentation Title</h1>
+  <p id="deckSubtitle">Add a short description of this deck here.</p>
+</header>
+
+<main>
+  <div class="stage" id="stage">
+    <button class="nav-btn prev" id="prevBtn" aria-label="Previous slide">&#8592;</button>
+    <img id="slideImg" src="" alt="Slide">
+    <button class="nav-btn next" id="nextBtn" aria-label="Next slide">&#8594;</button>
+  </div>
+
+  <div class="controls">
+    <span class="counter" id="counter">1 / 1</span>
+    <div class="progress-track" id="progressTrack">
+      <div class="progress-fill" id="progressFill"></div>
+    </div>
+    <button class="icon-btn" id="fullscreenBtn" title="Fullscreen">&#9974;</button>
+  </div>
+
+  <div class="thumbs" id="thumbs"></div>
+</main>
+
+<footer>
+  Use &#8592; / &#8594; arrow keys to navigate &nbsp;&middot;&nbsp; Built for GitHub Pages
+</footer>
+
+<script>
+  // ---- CONFIGURE YOUR DECK HERE ----
+  const deckTitle = "Presentation Title";
+  const deckSubtitle = "Add a short description of this deck here.";
+
+  // List your slide image files in order (relative path from this HTML file).
+  // Example: export your PPT as PNG images (File > Export > Change File Type > PNG > "All Slides")
+  // then upload them into a folder like "slides/" next to this HTML file.
+  const slides = [
+    "slides/slide1.png",
+    "slides/slide2.png",
+    "slides/slide3.png",
+    "slides/slide4.png",
+    "slides/slide5.png",
+    "slides/slide6.png",
+    "slides/slide7.png",
+    "slides/slide8.png",
+    "slides/slide9.png",
+    "slides/slide10.png",
+    "slides/slide11.png",
+    "slides/slide12.png",
+    "slides/slide13.png",
+    "slides/slide14.png",
+    "slides/slide15.png",
+    "slides/slide16.png",
+    "slides/slide17.png",
+    "slides/slide18.png",
+    "slides/slide19.png",
+    "slides/slide20.png"
+  ];
+  // -----------------------------------
+
+  document.getElementById("deckTitle").textContent = deckTitle;
+  document.getElementById("deckSubtitle").textContent = deckSubtitle;
+
+  let current = 0;
+
+  const slideImg = document.getElementById("slideImg");
+  const counter = document.getElementById("counter");
+  const progressFill = document.getElementById("progressFill");
+  const progressTrack = document.getElementById("progressTrack");
+  const thumbsEl = document.getElementById("thumbs");
+  const prevBtn = document.getElementById("prevBtn");
+  const nextBtn = document.getElementById("nextBtn");
+  const fullscreenBtn = document.getElementById("fullscreenBtn");
+  const stage = document.getElementById("stage");
+
+  function render() {
+    slideImg.src = slides[current];
+    slideImg.alt = "Slide " + (current + 1);
+    counter.textContent = (current + 1) + " / " + slides.length;
+    progressFill.style.width = ((current + 1) / slides.length * 100) + "%";
+
+    [...thumbsEl.children].forEach((t, i) => {
+      t.classList.toggle("active", i === current);
+    });
+    const activeThumb = thumbsEl.children[current];
+    if (activeThumb) activeThumb.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+  }
+
+  function goTo(index) {
+    current = (index + slides.length) % slides.length;
+    render();
+  }
+
+  function buildThumbs() {
+    thumbsEl.innerHTML = "";
+    slides.forEach((src, i) => {
+      const div = document.createElement("div");
+      div.className = "thumb";
+      div.innerHTML = `<img src="${src}" alt="Slide ${i + 1} thumbnail">`;
+      div.addEventListener("click", () => goTo(i));
+      thumbsEl.appendChild(div);
+    });
+  }
+
+  prevBtn.addEventListener("click", () => goTo(current - 1));
+  nextBtn.addEventListener("click", () => goTo(current + 1));
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowLeft") goTo(current - 1);
+    if (e.key === "ArrowRight") goTo(current + 1);
+  });
+
+  progressTrack.addEventListener("click", (e) => {
+    const rect = progressTrack.getBoundingClientRect();
+    const ratio = (e.clientX - rect.left) / rect.width;
+    goTo(Math.floor(ratio * slides.length));
+  });
+
+  fullscreenBtn.addEventListener("click", () => {
+    if (!document.fullscreenElement) {
+      stage.requestFullscreen?.();
+    } else {
+      document.exitFullscreen?.();
+    }
+  });
+
+  // Basic swipe support for mobile
+  let touchStartX = null;
+  stage.addEventListener("touchstart", (e) => { touchStartX = e.changedTouches[0].clientX; });
+  stage.addEventListener("touchend", (e) => {
+    if (touchStartX === null) return;
+    const dx = e.changedTouches[0].clientX - touchStartX;
+    if (dx > 50) goTo(current - 1);
+    if (dx < -50) goTo(current + 1);
+    touchStartX = null;
+  });
+
+  buildThumbs();
+  render();
+</script>
+
+</body>
+</html>
