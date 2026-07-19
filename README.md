@@ -45,7 +45,7 @@ https://github.com/MChu2019/MChu2019/blob/main/README.md
 [# _3. Retirement Plan Advisor_](https://github.com/MChu2019/plan_project/blob/main/README.md)
 
 # 🏗️ Featured Data Analysis Project: 
-[#NHL Game Data Analysis*](https://mchu2019.github.io/nhl_game.html)
+[#NHL Game Data Analysis*](https://github.com/MChu2019/MChu2019/blob/main/nhl_game.html)
 
 
 
