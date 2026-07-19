@@ -36,7 +36,7 @@ https://github.com/MChu2019/MChu2019/blob/main/README.md
 • Cross-functional partner bridging business needs with technical execution.<br>
 • Revenue analysis meets scalable data solutions mindset.
 
-# 🏗️ Featured Project: 
+# 🏗️ Featured AI Projects: 
 
 [# _1. Container Repair Recovery_](https://github.com/MChu2019/emars-tpc-dashboard/blob/main/README.md)
 
@@ -44,7 +44,8 @@ https://github.com/MChu2019/MChu2019/blob/main/README.md
 
 [# _3. Retirement Plan Advisor_](https://github.com/MChu2019/plan_project/blob/main/README.md)
 
-[# _4. NHL Game Statistic Analyzer_](https://github.com/MChu2019/blob/main/nhl_game.html)
+# 🏗️ Featured Data Analysis Project: 
+[#NHL Game Data Analysis*](https://mchu2019.github.io/nhl_game.html)
 
 
 
