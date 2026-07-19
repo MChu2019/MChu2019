@@ -46,6 +46,7 @@ https://github.com/MChu2019/MChu2019/blob/main/README.md
 
 # 🏗️ Featured Data Analysis Project: 
 [🏒 NHL Game Data Analysis ](https://mchu2019.github.io/MChu2019/nhl_game.html)
+[📊 HDB Resale Flat Data Analysis](https://mchu2019.github.io/MChu2019/presentation/ppt_viewer.html)
 
 
 
