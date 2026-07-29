@@ -38,7 +38,7 @@ Power BI (PL-300) · Tableau · Streamlit · Plotly · Microsoft Fabric (DP-700)
 ### 📊 Container Repair Cost Analytics Dashboard
 - **Problem:** Container repair invoices spanning multiple ports and currencies were hard to consolidate and monitor for cost overruns.
 - **Approach:** Built an interactive Streamlit dashboard with row-level currency normalization and zero-value exchange rate handling.
-- **Result:** 15 % reduction in manual reconciliation time, 500+ ports/currencies consolidated into one view.
+- **Result:** Estimated 15 % reduction in manual reconciliation time, 500+ ports/currencies consolidated into one view.
 - 🔗 [Repo](https://github.com/MChu2019/emars-tpc-dashboard)
 
 ### 🏒 NHL Game Data Analysis  *(Team Project)*
