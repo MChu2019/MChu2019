@@ -56,6 +56,6 @@ Power BI (PL-300) · Tableau · Streamlit · Plotly · Microsoft Fabric (DP-700)
 ---
 
 ## Certifications
-DP-700 (Microsoft Fabric) · DP-900 (Azure Data Fundamentals) · PL-300 (Power BI) · PCEP (Python) · Data Science & AI (NTU PACE) · PMP
+DP-700 (Microsoft Fabric) · DP-900 (Azure Data Fundamentals) · PL-300 (Power BI) · PCEP (Python) · Advanced Professional Certificate in Data Science & AI (NTU PACE) · PMP
 
 
