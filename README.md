@@ -11,7 +11,7 @@
 Python · SQL
 
 **ML Frameworks & Libraries**
-scikit-learn · Prophet · statsmodels
+Pandas · Seaborn · Anacondascikit-learn · Prophet · statsmodels
 
 **MLOps / Deployment**
 FastAPI · PostgreSQL · Vercel · Render · Git
