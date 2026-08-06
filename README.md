@@ -1,9 +1,9 @@
 # Chu Mei Ying, Michelle
-**Data & AI practitioner | Business systems background | Building production-style ML and LLM projects**
+**From Business Analyst to Data & AI Practitioner | 18 Years Shipping/Logistics Domain Expertise | Python · SQL · Tableau · Power BI**
 
  🔗 [LinkedIn](https://www.linkedin.com/in/chu-michelle-88312371/) · 🌐 [Portfolio Site](https://mchu2019.github.io/MChu2019/) · 📧 mychuy2k@gmail.com
 
----
+20 years of logistics/shipping domain skills
 
 ## Skills
 
@@ -18,6 +18,8 @@ FastAPI · PostgreSQL · Vercel · Render · Git
 
 **Data Tools**
 Power BI (PL-300) · Tableau · Streamlit · Plotly · Microsoft Fabric (DP-700) · Azure Data Fundamentals (DP-900)
+
+
 
 ---
 
