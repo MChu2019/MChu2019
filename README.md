@@ -34,7 +34,7 @@ Power BI (PL-300) · Tableau · Streamlit · Plotly · Microsoft Fabric (DP-700)
 ### 📈 Third-Party Claim (TPC) Repair Cost Forecast
 - **Problem:** Repair cost forecasting across multi-currency, multi-year transaction data was manual and error-prone.
 - **Approach:** Cleaned and structured 1.5M+ repair line items into a monthly time series; benchmarked 8 ML and classical forecasting models.
-- **Result:** Best model (HistGradientBoosting (untuned)) achieved **3.66% MAPE** on the hold-out set — the lowest error among all 8 models tested.
+- **Result:** Best model (RandomForest)) achieved **3.66% MAPE** on the hold-out set — the lowest error among all 8 models tested.
 - 🔗 [Repo](https://github.com/MChu2019/tpc-repair-forecast)
 
 ### 📊 Container Repair Cost Analytics Dashboard
