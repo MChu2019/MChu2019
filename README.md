@@ -1,5 +1,5 @@
 # Chu Mei Ying, Michelle
-**From Business Analyst to Data & AI Practitioner | 18 Years Shipping/Logistics Domain Expertise | Python · SQL · Tableau · Power BI**
+**From Business Analyst to Data & AI Practitioner | 20 Years Shipping/Logistics Domain Expertise | Python · SQL · Tableau · Power BI**
 
  🔗 [LinkedIn](https://www.linkedin.com/in/chu-michelle-88312371/) · 🌐 [Portfolio Site](https://mchu2019.github.io/MChu2019/) · 📧 mychuy2k@gmail.com
 
