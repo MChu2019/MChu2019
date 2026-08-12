@@ -58,6 +58,6 @@ Power BI (PL-300) · Tableau · Streamlit · Plotly · Microsoft Fabric (DP-700)
 ---
 
 ## Certifications
-Digital Business Analyst – SIT STEP (in progress, expected Sep 2026)· Advanced Professional Certificate in Data Science & AI (NTU PACE) · DP-700 (Microsoft Fabric) · DP-900 (Azure Data Fundamentals) · PL-300 (Power BI) · PCEP (Python) · Data Engineer Program Trainee (Generation Singapore) · PMP
+Digital Business Analyst – SIT STEP (in progress, expected Sep 2026)· Advanced Professional Certificate in Data Science & AI (NTU PACE) · DP-700 (Microsoft Fabric) · DP-900 (Azure Data Fundamentals) · PL-300 (Power BI) · PCEP (Python) · Data Engineer Program Trainee (Generation Singapore) · Certified Associate Data Analyst (NTUC Learning Hub) · PMP
 
 
