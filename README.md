@@ -24,13 +24,6 @@ Power BI (PL-300) · Tableau · Streamlit · Plotly · Microsoft Fabric (DP-700)
 ---
 
 ## Featured Projects
-
-### 🤖 Retirement Planner — AI-Powered Financial Education Tool
-- **Problem:** Generic retirement calculators don't adapt advice to an individual's real financial situation, and unfiltered LLM output risks giving unsafe financial guidance.
-- **Approach:** Built a full-stack app using the Google Gemini API to generate personalized, decade-by-decade retirement plans, with a custom guardrail layer that screens all AI output before it reaches the user.
-- **Result:** Estimated 10 % of test outputs flagged and corrected by the guardrail layer. Nine financial scenarios validated.
-- 🔗 [Repo](https://github.com/MChu2019/plan_project)
-
 ### 📈 Third-Party Claim (TPC) Repair Cost Forecast
 - **Problem:** Repair cost forecasting across multi-currency, multi-year transaction data was manual and error-prone.
 - **Approach:** Cleaned and structured 1.5M+ repair line items into a monthly time series; benchmarked 8 ML and classical forecasting models.
